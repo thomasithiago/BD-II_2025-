@@ -1,0 +1,5 @@
+SELECT TOP (1000) [ID]
+      ,[LastName]
+      ,[FirstMidName]
+      ,[EnrollmentDate]
+  FROM [UnoescBD2].[dbo].[Student]
